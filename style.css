@@ -1,0 +1,68 @@
+.logo{
+    width: 97px;
+}
+
+
+.primary_menu {
+	margin-left: 265px;
+}
+  .primary_menu a{
+    margin-left: 50px;
+  }
+
+  .tabs-accordion{
+      padding: 100px 0px;
+      background: #cecece;
+  }
+
+  .tab-pane{
+      color: #000;
+  }
+
+  .container{
+      max-width: 1200px;
+  }
+
+  .alrers{
+      padding: 50px 0px;
+  }
+
+
+.toast-body{
+    color: black;
+}
+
+
+  .drop{
+      margin-top: 50px;
+  }
+
+  .ok{
+      margin-top: 50px;
+  }
+
+  .toltips{
+      padding: 100px 0px;
+      margin: 50px 0px;
+  }
+
+  .tople{
+      margin-top: 50px;
+  }
+
+  .dropdown-item:focus, .dropdown-item:hover {
+	color: #1e2125;
+	background-color:transparent;
+}
+
+footer p{
+    margin: 0;
+    padding: 20px 0px;
+    color: #fff;
+}
+
+footer{
+    background:#17a2b8;
+}
+
+.sorre-vai{box-sizing: border-box;padding: 16px 54px;}
